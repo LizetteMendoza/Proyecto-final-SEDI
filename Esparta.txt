@@ -1,0 +1,12 @@
+Artemisa
+35
+Mujer
+20
+Leonidas
+37
+Hombre
+45
+Raul
+30
+Hombre
+60

@@ -1,0 +1,8 @@
+A
+78
+Hombre
+90
+Megara
+23
+Mujer
+20
